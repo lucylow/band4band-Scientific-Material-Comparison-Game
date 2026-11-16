@@ -1,4 +1,4 @@
-# BAND FOR BAND : The Materials Science Discovery & Comparison Platform
+# BAND 4 BAND : The Materials Science Discovery & Comparison Platform
 
 <p align="center">
   <strong>Compare Materials. Challenge Assumptions. Discover Better Candidates.</strong>
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Research%20Modules-500-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Open%20Research-10B981?style=for-the-badge" />
 </p>
+
+![](https://github.com/lucylow/band4band-Scientific-Material-Comparison-Game/blob/main/Futuristic%20Materials%20Science%20Lab%20Comparison.png?raw=true)
 
 ---
 
