@@ -1,7 +1,4 @@
-# band4band-Scientific-Material-Comparison-Game
-
-# BAND FOR BAND
-## The Materials Science Discovery & Comparison Platform
+# BAND FOR BAND : The Materials Science Discovery & Comparison Platform
 
 <p align="center">
   <strong>Compare Materials. Challenge Assumptions. Discover Better Candidates.</strong>
