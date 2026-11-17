@@ -17,6 +17,8 @@
 
 ![](https://github.com/lucylow/band4band-Scientific-Material-Comparison-Game/blob/main/Futuristic%20Materials%20Science%20Lab%20Comparison.png?raw=true)
 
+![](https://github.com/lucylow/band4band-Scientific-Material-Comparison-Game/blob/main/7.png?raw=true)
+
 ---
 
 # TABLE OF CONTENTS
